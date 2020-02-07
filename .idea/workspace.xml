@@ -2,138 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ccdcb93-8ece-4eb7-85d9-772b7fd6398e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase1.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase1.spanning_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase2.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase2.spanning_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase3.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase3.spanning_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase4.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase4.spanning_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase5.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs_pictures/testcase5.spanning_tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/DisjointUnionSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/MinimalSpanningTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/ShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/entities/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/entities/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/entities/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/1d/testcase9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BIT/2d/testcase9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/lower_bound/testcase9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/sub_range/testcase9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/binary_search/upper_bound/testcase9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/djus/kruskal/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/djus/kruskal/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/djus/kruskal/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/djus/kruskal/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/djus/kruskal/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/BIT2DTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/BITTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/LowerBoundTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/MinimalSpanningTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/ShortestPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/SubRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/UpperBoundTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/ParametrizedArgumentSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestCase2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestGeneratorGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/VariableArgumentsProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/VariableSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/trees.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/DisjointUnionSets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/MinimalSpanningTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/ShortestPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BIT2DTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BITTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/LowerBoundTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/MinimalSpanningTreeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/ShortestPathTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/SubRangeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/UpperBoundTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/ParametrizedArgumentSupplier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase$QueryType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D$QueryType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestGeneratorGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableArgumentsProvider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trees.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestGeneratorGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/trees.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/DisjointUnionSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/MinimalSpanningTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/ShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BIT2DTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BITTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/LowerBoundTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/MinimalSpanningTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/ShortestPathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/SubRangeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/UpperBoundTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/ParametrizedArgumentSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase$QueryType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D$QueryType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestGeneratorGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableArgumentsProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableSource.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,38 +122,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581109946554</updated>
-      <workItem from="1581109958146" duration="3584000" />
+      <workItem from="1581109958146" duration="3847000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1581113599701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581113599701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1581113941597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581113941597" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1581113518841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581113518841" />
-    <state width="1323" height="527" key="GridCell.Tab.0.bottom" timestamp="1581113485709">
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom" timestamp="1581113956217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="527" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581113485709" />
-    <state width="1323" height="527" key="GridCell.Tab.0.center" timestamp="1581113485709">
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581113956217" />
+    <state width="1323" height="237" key="GridCell.Tab.0.center" timestamp="1581113956216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="527" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581113485709" />
-    <state width="1323" height="527" key="GridCell.Tab.0.left" timestamp="1581113485708">
+    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
+    <state width="1323" height="237" key="GridCell.Tab.0.left" timestamp="1581113956216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="527" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581113485708" />
-    <state width="1323" height="527" key="GridCell.Tab.0.right" timestamp="1581113485709">
+    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right" timestamp="1581113956216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="527" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581113485709" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1581110292323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581110292323" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1581113618353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581113618353" />
     <state x="65" y="0" key="new project wizard" timestamp="1581110612519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

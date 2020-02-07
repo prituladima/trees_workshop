@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
 
-public class TestGeneratorGenerator {
+public class TestGenerator {
     public static void main(String[] args) throws IOException {
 
         int arraySizeX = 2_000;
