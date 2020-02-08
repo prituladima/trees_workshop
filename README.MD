@@ -1,5 +1,6 @@
 Java Community Dnepr
 ========
+[Presentation](https://docs.google.com/presentation/d/1_Bil7HucYlxP83qWGQcnK83uDSdw7sRcjFq5J9iNDxk/edit?usp=sharing)
 
 This is the project where you can train you algorithmic skills in:
 
