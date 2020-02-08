@@ -3,32 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="3ccdcb93-8ece-4eb7-85d9-772b7fd6398e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestGeneratorGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/util/TestGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/trees.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BIT2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/DisjointUnionSets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/MinimalSpanningTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/ShortestPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/prituladima/trees/entities/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BIT2DTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/BITTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/LowerBoundTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/MinimalSpanningTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/ShortestPathTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/SubRangeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/UpperBoundTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/ParametrizedArgumentSupplier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase$QueryType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D$QueryType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestCase2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/TestGeneratorGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableArgumentsProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prituladima/trees/util/VariableSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/BIT2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/DisjointUnionSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/DisjointUnionSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/MinimalSpanningTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/MinimalSpanningTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prituladima/trees/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/heap/dijkstra/testcase1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/MinimalSpanningTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prituladima/trees/MinimalSpanningTreeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +19,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -79,7 +75,67 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BIT2DTest">
+    <configuration name="BIT2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prituladima.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prituladima.trees" />
+      <option name="MAIN_CLASS_NAME" value="com.prituladima.trees.BIT2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BITTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prituladima.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prituladima.trees" />
+      <option name="MAIN_CLASS_NAME" value="com.prituladima.trees.BITTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimalSpanningTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prituladima.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prituladima.trees" />
+      <option name="MAIN_CLASS_NAME" value="com.prituladima.trees.MinimalSpanningTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestPathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prituladima.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prituladima.trees" />
+      <option name="MAIN_CLASS_NAME" value="com.prituladima.trees.ShortestPathTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.prituladima.trees in trees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="trees" />
       <extension name="coverage">
@@ -96,6 +152,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BIT2DTest" />
+        <item itemvalue="JUnit.BITTest" />
+        <item itemvalue="JUnit.MinimalSpanningTreeTest" />
+        <item itemvalue="JUnit.ShortestPathTest" />
         <item itemvalue="JUnit.com.prituladima.trees in trees" />
       </list>
     </recent_temporary>
@@ -122,7 +182,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581109946554</updated>
-      <workItem from="1581109958146" duration="3847000" />
+      <workItem from="1581109958146" duration="11256000" />
+      <workItem from="1581148513735" duration="14118000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1581113599701</created>
@@ -131,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581113599701</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="---">
+      <created>1581113994398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581113994398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added presentation">
+      <created>1581175385174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581175385174</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,44 +216,54 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="---" />
+    <MESSAGE value="Added presentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added presentation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1581113941597">
+    <state x="282" y="0" key="CommitChangelistDialog2" timestamp="1581175383276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581113941597" />
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581175383276" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1581113518841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581113518841" />
-    <state width="1323" height="237" key="GridCell.Tab.0.bottom" timestamp="1581113956217">
+    <state width="1323" height="444" key="GridCell.Tab.0.bottom" timestamp="1581165917302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581113956217" />
-    <state width="1323" height="237" key="GridCell.Tab.0.center" timestamp="1581113956216">
+    <state width="1323" height="444" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581165917302" />
+    <state width="1323" height="444" key="GridCell.Tab.0.center" timestamp="1581165917301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
-    <state width="1323" height="237" key="GridCell.Tab.0.left" timestamp="1581113956216">
+    <state width="1323" height="444" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581165917301" />
+    <state width="1323" height="444" key="GridCell.Tab.0.left" timestamp="1581165917301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
-    <state width="1323" height="237" key="GridCell.Tab.0.right" timestamp="1581113956216">
+    <state width="1323" height="444" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581165917301" />
+    <state width="1323" height="444" key="GridCell.Tab.0.right" timestamp="1581165917302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581113956216" />
+    <state width="1323" height="444" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581165917302" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1581110292323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581110292323" />
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1581113618353">
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1581175392137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581113618353" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581175392137" />
     <state x="65" y="0" key="new project wizard" timestamp="1581110612519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581110612519" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1581114003807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581114003807" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581162396612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581162396612" />
   </component>
 </project>

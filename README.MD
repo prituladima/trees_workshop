@@ -12,38 +12,55 @@ This is the project where you can train you algorithmic skills in:
     - Correctness
     - Marker that solution is not exists
     - Tail recursion over iteration 
-
-- Build your own graph using Java SDK
-    - From edge list to adjacency lists; 
-
-
+    - Invariant inversion
+    - Inclusion Exclusion principle
+    - Partial sum/Prefix sum
+    - Bit sets 
+    - Performance testing
+    
 Array of integers in ascending order:
-* How to find any value
 * How to find lower bound
 * How to find upper bound
-* How to calculate value in range
+* How to find range size
 
-todo 
-create tests for binary search (int, dates)
-create pictures for binary search
-create slides in presentation with arrays and solution tree
-creates slides with usage
+Heap (PriorityQueue)
+* siftUp
+* siftDown
 
+Single source minimum cost
+* Dijkstra
 
+DisjointUnionSet
+* Union two
+* Check if two are in the same set
+* Amount of connected component
+* Rank balancing
+* Pass zipping
 
+Minimal spanning tree
+* Kruskal algo
 
-todo
-migrate project to maven wrapper
+Binary indexed tree
+* Subarray sum query
+* Single element modification
+
+Binary indexed tree 2D
+* Submatrix sum query
+* Single element modification
 
 
 
 
 
 Pictures was build with [this tool](https://graphonline.ru/)
-
-http://graphonline.ru/?graph=ScQtPsvwRCtxrIhQ
-
+Resources:
 
 BIT Naive implementation
 https://www.youtube.com/watch?v=v_wj_mOAlig
- 
+
+Egor Kulikov [yaal](https://github.com/EgorKulikov/yaal)
+
+BIT 2D
+https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+
+
